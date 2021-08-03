@@ -20,7 +20,7 @@ Now we get our rotated and shifted matrix - `x_rotated_shifted`<br/>
 ![Matrix rotated_shifted](https://github.com/Samuel-Bachorik/PyTorch_equations_matrices_solver/blob/master/Images/Matrix%20rotated%20shifted.PNG)<br/>
 
 Now we have two inputs - Matrix `x` and matrix - `x_rotated_shifted`<br/>
-`rotation_shift_solver.py` will find back Shift `Matrix S` and angle `theta` without knowing matrix `R` and matrix `S`. 
+`rotation_shift_solver.py` will find back Shift `Matrix S` and angle `theta "θ"` without knowing them.
 
 # Other solvers
 `Quadratic_equation.py` solves quadratic equations in matrix form of Ax-b = 0<br/>
