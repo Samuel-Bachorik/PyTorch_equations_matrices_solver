@@ -5,7 +5,7 @@ Matrix rotation and shift, quadratic, linear equations, System of linear equatio
 Example - <br/>
 Lets think matrix X<br/>
 
-![Matrix x](https://github.com/Samuel-Bachorik/PyTorch_equations_matrices_solver/blob/master/Images/Matrix%20x.PNG)<br/>
+![Matrix X](https://github.com/Samuel-Bachorik/PyTorch_equations_matrices_solver/blob/master/Images/Matrix%20x.PNG)<br/>
 
 Transform by shift and rotation matrix - <br/>
 Rotation matrix `R` =<br/>
