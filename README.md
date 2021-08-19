@@ -3,7 +3,7 @@ Matrix rotation and shift, quadratic, linear equations, System of linear equatio
 
 `rotation_shift_solver.py` can find shift and rotation of matrix<br/>
 Example - <br/>
-Lets think matrix x<br/>
+Lets think matrix X<br/>
 
 ![Matrix x](https://github.com/Samuel-Bachorik/PyTorch_equations_matrices_solver/blob/master/Images/Matrix%20x.PNG)<br/>
 
